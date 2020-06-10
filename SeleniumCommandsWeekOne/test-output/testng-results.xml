@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42677" started-at="2020-03-26T18:48:50Z" finished-at="2020-03-26T18:49:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42677" started-at="2020-03-26T18:48:50Z" finished-at="2020-03-26T18:49:33Z">
+      <class name="com.learning.selenium.MortgageCalculaorTests">
+        <test-method status="PASS" signature="set_up()[pri:0, instance:com.learning.selenium.MortgageCalculaorTests@c038203]" name="set_up" is-config="true" duration-ms="6518" started-at="2020-03-26T18:48:50Z" finished-at="2020-03-26T18:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="buyAHomeTest()[pri:0, instance:com.learning.selenium.MortgageCalculaorTests@c038203]" name="buyAHomeTest" duration-ms="5268" started-at="2020-03-26T18:48:57Z" finished-at="2020-03-26T18:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyAHomeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learning.selenium.MortgageCalculaorTests@c038203]" name="tearDown" is-config="true" duration-ms="30854" started-at="2020-03-26T18:49:02Z" finished-at="2020-03-26T18:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.learning.selenium.MortgageCalculaorTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
