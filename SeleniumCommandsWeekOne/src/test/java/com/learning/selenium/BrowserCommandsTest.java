@@ -28,9 +28,9 @@ public class BrowserCommandsTest {
 	@AfterMethod // run after every single test method
 	public void tearDown() {
 		driver.close(); // closing the browser
-		if (driver != null) {
+		if (driver != null) 
 			driver.quit();
-		}
+		
 	}
 
 	@Test(enabled = true, priority = 1)
