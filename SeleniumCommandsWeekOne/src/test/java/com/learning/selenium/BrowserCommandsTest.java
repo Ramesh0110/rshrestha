@@ -23,6 +23,9 @@ public class BrowserCommandsTest {
 																			// wait
 																			// time
 		//driver.manage().window().maximize(); // maximize
+		//driver.manage().window().maximize(); // maximize
+		//driver.manage().window().maximize(); // maximize
+		//driver.manage().window().maximize(); // maximize
 	}
 
 	@AfterMethod // run after every single test method
